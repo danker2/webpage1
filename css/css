@@ -1,0 +1,28 @@
+.header{
+	display: flex;
+	background: linear-gradient(#475194, #B8C0F5);
+}
+.title{
+	font-size: 40px;
+	padding: 2px;
+}
+.img{
+	float: left;
+	padding: 2px;
+}
+.body{
+	background-color: #B8C0F5;
+}
+.text{
+	display: flex;
+	font-size: 29.2px;
+}
+.table{
+	font-size: 25px;
+}
+.footer{
+	background: linear-gradient(#B8C0F5, #9096C2);
+}
+.link{
+	font-size: 20px;
+}
